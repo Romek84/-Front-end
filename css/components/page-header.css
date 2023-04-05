@@ -1,0 +1,15 @@
+.page-header {
+    padding: 20px 0;
+}
+
+.page-header-container {
+    text-align: center;
+}
+
+@media screen and (min-width: 780px) {
+    .page-header-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}

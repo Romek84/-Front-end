@@ -1,0 +1,15 @@
+/* MOBILE/TELEFON:  0 wzwyz */
+/* TABLET: 780px */
+/* DESKTOP: 1280px wzwyz */
+
+* {
+    box-sizing: border-box;
+}
+
+section {
+    padding: 30px 0;
+}
+
+section:nth-child(even) {
+    background-color: rgb(224, 224, 224);
+}

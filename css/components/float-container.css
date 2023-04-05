@@ -1,0 +1,6 @@
+@media screen and (min-width: 780px) {
+    .float-container img {
+        float: left;
+        margin-right: 15px;
+    }
+}
